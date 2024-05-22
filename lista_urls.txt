@@ -1,1 +1,2 @@
 https://rest.alpargatasviguera.com:7010/Images/ECI/2155ViteloDesert1.jpg
+http://rest.alpargatasviguera.com:7010/Images/ECI/2155ViteloDesert1.jpg
