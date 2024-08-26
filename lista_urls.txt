@@ -1,1 +1,15 @@
 https://static.swatch.com/images/product/LG130/sa200/LG130_sa200_er003.png?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/LG130/li1/LG130_li1_ec001.jpg?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/LP165/li1/LP165_li1_ec001.jpg?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/SB05B113/li1/SB05B113_li1_ec001.jpg?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/LG130/sa200/LG130_sa200_er003.png?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/LP165/sa200/LP165_sa200_er003.png?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/SB05B113/sa200/SB05B113_sa200_er003.png?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/LG130/li2/LG130_li2_ec001.jpg?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/LP165/li2/LP165_li2_ec001.jpg?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/SB05B113/li2/SB05B113_li2_ec001.jpg?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/SB05M102/li2/SB05M102_li2_ec001.jpg?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/LG130/sa000/LG130_sa000_ec004.png?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/LP165/sa000/LP165_sa000_ec004.png?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/SB05B113/sa000/SB05B113_sa000_ec004.png?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
+https://static.swatch.com/images/product/SB05M102/sa000/SB05M102_sa000_ec004.png?im=AspectCrop=(2,2.444),xPosition=.5,yPosition=.5
