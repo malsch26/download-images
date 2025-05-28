@@ -18,8 +18,9 @@ jobs:
           python-version: 3.8
       - name: Run Python script
         run: python download-img.py
-      - name: Upload artifact
-        uses: actions/upload-artifact@v2
+        - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
           name: imagenes
-          path: imagenes
+          path: imagenes/
+
